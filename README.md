@@ -21,9 +21,9 @@ Module	Responsibility
 :core:ui	Base UI components (e.g., loading indicators, error views).
 
 📊 Module Dependency Diagram (Mermaid)
+<details> <summary>Click to expand</summary>
 mermaid
-Copy
-Edit
+
 graph TD
   app --> feature_currency_convertor
   feature_currency_convertor --> core_common
@@ -36,6 +36,7 @@ graph TD
   core_ui --> core_designsystem
   core_network --> core_common
   core_database --> core_model
+</details>
 ✅ Benefits
 🔄 Clear separation of concerns – each module has a well-defined purpose.
 
