@@ -22,7 +22,6 @@ Module	Responsibility
 
 📊 Module Dependency Diagram (Mermaid)
 <details> <summary>Click to expand</summary>
-mermaid
 
 graph TD
   app --> feature_currency_convertor
