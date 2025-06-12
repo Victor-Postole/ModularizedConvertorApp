@@ -46,6 +46,7 @@ graph TD
 🚀 Scalability – easy to extend with new features without impacting existing logic.
 
 
+![Screenshot 2025-06-12 at 11 30 06](https://github.com/user-attachments/assets/9da615ba-91f7-4fce-83ac-c03257df4416)
 
 ![Screenshot 2025-06-11 at 17 59 52](https://github.com/user-attachments/assets/7ef93728-27da-40b2-b8f1-eabfb498deb9)
 <img width="295" alt="Screenshot 2025-06-12 at 08 56 58" src="https://github.com/user-attachments/assets/e4316b7b-8504-48dd-9f58-9d8ab4496964" />
