@@ -48,4 +48,5 @@ graph TD
 
 
 ![Screenshot 2025-06-11 at 17 59 52](https://github.com/user-attachments/assets/7ef93728-27da-40b2-b8f1-eabfb498deb9)
+<img width="295" alt="Screenshot 2025-06-12 at 08 56 58" src="https://github.com/user-attachments/assets/e4316b7b-8504-48dd-9f58-9d8ab4496964" />
 <img width="397" alt="Screenshot 2025-06-11 at 18 02 51" src="https://github.com/user-attachments/assets/f8273326-89d4-4247-a723-e4cc688a4151" />
